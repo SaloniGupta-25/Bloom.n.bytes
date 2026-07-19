@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Beds category on white background">
+  <rect width="900" height="700" fill="#fff"/>
+  <ellipse cx="450" cy="590" rx="300" ry="34" fill="#efe8df"/>
+  <rect x="180" y="255" width="540" height="185" rx="34" fill="#d1ad8f"/>
+  <rect x="220" y="205" width="460" height="120" rx="30" fill="#f1e5d8"/>
+  <rect x="215" y="350" width="470" height="150" rx="38" fill="#fbf7f1" stroke="#e5d7ca" stroke-width="8"/>
+  <rect x="185" y="490" width="530" height="62" rx="24" fill="#b58b66"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Noah Ellis portrait">
+  <rect width="160" height="160" rx="80" fill="#efe2d6"/>
+  <circle cx="80" cy="65" r="32" fill="#9b7052"/>
+  <path d="M37 141c9-34 31-54 43-54s34 20 43 54" fill="#2e2924"/>
+  <path d="M48 55c14-28 54-38 76 0-18-7-54-8-76 0z" fill="#5a4334"/>
+  <circle cx="68" cy="68" r="4" fill="#2e2924"/>
+  <circle cx="92" cy="68" r="4" fill="#2e2924"/>
+</svg>

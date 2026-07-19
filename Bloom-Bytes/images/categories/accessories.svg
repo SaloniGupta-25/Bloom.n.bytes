@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Home accessories category on white background">
+  <rect width="900" height="700" fill="#fff"/>
+  <ellipse cx="450" cy="580" rx="250" ry="38" fill="#efe8df"/>
+  <path d="M315 250c30 48 28 86-5 138-36 55-40 160 85 190 125-30 121-135 85-190-33-52-35-90-5-138z" fill="#efe2d6" stroke="#d6c3b2" stroke-width="9"/>
+  <rect x="356" y="200" width="82" height="70" rx="32" fill="#d6c3b2"/>
+  <circle cx="585" cy="410" r="82" fill="#7f8d78"/>
+  <rect x="560" y="300" width="80" height="205" rx="34" fill="#f7efe4"/>
+</svg>

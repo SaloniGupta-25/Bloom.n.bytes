@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Lina Hart portrait">
+  <rect width="160" height="160" rx="80" fill="#f7efe4"/>
+  <path d="M42 79c0-38 21-58 38-58s38 20 38 58v25H42z" fill="#7f5d48"/>
+  <circle cx="80" cy="69" r="31" fill="#c79a78"/>
+  <path d="M35 141c8-34 32-54 45-54s37 20 45 54" fill="#b58b66"/>
+  <circle cx="68" cy="70" r="4" fill="#2e2924"/>
+  <circle cx="92" cy="70" r="4" fill="#2e2924"/>
+  <path d="M70 86c7 6 13 6 20 0" fill="none" stroke="#2e2924" stroke-width="5" stroke-linecap="round"/>
+</svg>

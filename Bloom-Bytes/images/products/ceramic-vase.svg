@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Ceramic vase on white background">
+  <rect width="900" height="900" fill="#fff"/>
+  <ellipse cx="450" cy="740" rx="180" ry="34" fill="#efe8df"/>
+  <path d="M365 300c35 55 34 95-5 154-42 65-50 202 90 236 140-34 132-171 90-236-39-59-40-99-5-154z" fill="#efe2d6" stroke="#d6c3b2" stroke-width="9"/>
+  <rect x="396" y="235" width="108" height="86" rx="38" fill="#d6c3b2"/>
+  <path d="M450 215c-15-68-5-116 48-146" fill="none" stroke="#7f8d78" stroke-width="12" stroke-linecap="round"/>
+  <path d="M446 232c-48-54-86-73-142-58" fill="none" stroke="#7f8d78" stroke-width="12" stroke-linecap="round"/>
+</svg>

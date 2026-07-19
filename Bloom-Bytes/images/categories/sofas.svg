@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Sofas category on white background">
+  <rect width="900" height="700" fill="#fff"/>
+  <ellipse cx="450" cy="590" rx="320" ry="38" fill="#efe8df"/>
+  <rect x="175" y="335" width="550" height="170" rx="48" fill="#f6efe7" stroke="#e4d5c8" stroke-width="8"/>
+  <rect x="220" y="250" width="170" height="125" rx="32" fill="#fbf7f1"/>
+  <rect x="420" y="250" width="170" height="125" rx="32" fill="#f2e7dc"/>
+  <rect x="610" y="250" width="90" height="125" rx="32" fill="#fbf7f1"/>
+  <rect x="245" y="505" width="42" height="90" rx="20" fill="#9b7052"/>
+  <rect x="615" y="505" width="42" height="90" rx="20" fill="#9b7052"/>
+</svg>

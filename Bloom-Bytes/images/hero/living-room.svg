@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Luxury Scandinavian living room">
+  <rect width="1600" height="1000" fill="#f7efe4"/>
+  <rect x="980" y="0" width="620" height="1000" fill="#e7d7c5"/>
+  <rect x="1020" y="90" width="400" height="430" rx="18" fill="#fbf7f1"/>
+  <rect x="1060" y="130" width="320" height="350" rx="10" fill="#d8c1aa"/>
+  <rect x="0" y="690" width="1600" height="310" fill="#e2cbb6"/>
+  <rect x="660" y="520" width="520" height="175" rx="42" fill="#fdfbf8"/>
+  <rect x="700" y="450" width="160" height="120" rx="30" fill="#fff"/>
+  <rect x="900" y="455" width="180" height="115" rx="30" fill="#f4eadf"/>
+  <rect x="610" y="660" width="610" height="70" rx="28" fill="#d1ad8f"/>
+  <rect x="720" y="720" width="40" height="150" rx="18" fill="#9b7052"/>
+  <rect x="1085" y="720" width="40" height="150" rx="18" fill="#9b7052"/>
+  <ellipse cx="895" cy="818" rx="320" ry="58" fill="#c79a78" opacity=".24"/>
+  <rect x="270" y="600" width="300" height="86" rx="43" fill="#b58b66"/>
+  <rect x="315" y="565" width="210" height="34" rx="17" fill="#7f8d78"/>
+  <circle cx="388" cy="390" r="126" fill="#fff7ee"/>
+  <circle cx="388" cy="390" r="94" fill="#c7a17f"/>
+  <rect x="182" y="455" width="70" height="260" rx="35" fill="#2e2924"/>
+  <path d="M120 460h195l-38-120H158z" fill="#efe2d6"/>
+  <path d="M0 800c170-80 342-100 515-60 218 50 425 45 630-15 160-47 312-52 455-14v289H0z" fill="#fbf7f1" opacity=".7"/>
+</svg>

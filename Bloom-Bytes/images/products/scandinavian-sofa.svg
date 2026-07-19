@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Scandinavian sofa on white background">
+  <rect width="900" height="900" fill="#fff"/>
+  <ellipse cx="450" cy="740" rx="310" ry="44" fill="#efe8df"/>
+  <rect x="185" y="410" width="530" height="185" rx="50" fill="#f6efe7" stroke="#e4d5c8" stroke-width="8"/>
+  <rect x="220" y="325" width="150" height="135" rx="35" fill="#fbf7f1"/>
+  <rect x="395" y="325" width="150" height="135" rx="35" fill="#f2e7dc"/>
+  <rect x="570" y="325" width="110" height="135" rx="35" fill="#fbf7f1"/>
+  <rect x="240" y="590" width="42" height="110" rx="20" fill="#9b7052"/>
+  <rect x="620" y="590" width="42" height="110" rx="20" fill="#9b7052"/>
+</svg>

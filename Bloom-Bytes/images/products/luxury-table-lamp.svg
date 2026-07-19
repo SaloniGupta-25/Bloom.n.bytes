@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Luxury table lamp on white background">
+  <rect width="900" height="900" fill="#fff"/>
+  <ellipse cx="450" cy="760" rx="190" ry="34" fill="#efe8df"/>
+  <path d="M318 245h264l-42 245H360z" fill="#f4eadf" stroke="#d6c3b2" stroke-width="10"/>
+  <rect x="423" y="480" width="54" height="210" rx="27" fill="#b58b66"/>
+  <rect x="345" y="675" width="210" height="70" rx="35" fill="#2e2924"/>
+  <circle cx="450" cy="525" r="34" fill="#d7a86e"/>
+</svg>

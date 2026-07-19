@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Side table on white background">
+  <rect width="900" height="900" fill="#fff"/>
+  <ellipse cx="450" cy="750" rx="230" ry="36" fill="#efe8df"/>
+  <circle cx="450" cy="430" r="170" fill="#d1ad8f"/>
+  <circle cx="450" cy="430" r="130" fill="#b58b66"/>
+  <rect x="365" y="560" width="38" height="165" rx="19" fill="#8e6445"/>
+  <rect x="498" y="560" width="38" height="165" rx="19" fill="#8e6445"/>
+  <rect x="315" y="520" width="270" height="54" rx="27" fill="#2e2924"/>
+</svg>

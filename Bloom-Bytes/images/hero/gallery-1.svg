@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900" role="img" aria-label="Warm minimal living room">
+  <rect width="700" height="900" fill="#f8efe7"/>
+  <rect y="600" width="700" height="300" fill="#e0c5aa"/>
+  <rect x="120" y="420" width="460" height="130" rx="38" fill="#fff"/>
+  <rect x="165" y="365" width="120" height="85" rx="20" fill="#efe2d6"/>
+  <rect x="390" y="365" width="120" height="85" rx="20" fill="#f7efe4"/>
+  <circle cx="350" cy="220" r="105" fill="#b58b66"/>
+  <rect x="210" y="610" width="280" height="92" rx="46" fill="#7f8d78"/>
+</svg>

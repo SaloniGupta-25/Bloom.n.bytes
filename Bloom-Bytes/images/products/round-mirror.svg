@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Round mirror on white background">
+  <rect width="900" height="900" fill="#fff"/>
+  <ellipse cx="450" cy="770" rx="230" ry="36" fill="#efe8df"/>
+  <circle cx="450" cy="400" r="240" fill="#c79a78"/>
+  <circle cx="450" cy="400" r="198" fill="#f7f9fa"/>
+  <path d="M318 295c70-70 185-72 258-8" fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" opacity=".74"/>
+  <rect x="430" y="628" width="40" height="110" rx="20" fill="#8e6445"/>
+</svg>
